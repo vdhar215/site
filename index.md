@@ -2,6 +2,10 @@
 title: "Varun Dhar"
 ---
 
+# Picture
+
+![me](https://raw.githubusercontent.com/vdhar215/github-pages-with-jekyll/main/me.png)
+
 # Social Media Info
 
 Discord: @Icy_Flurry#9278
