@@ -1,9 +1,8 @@
-title: "Varun Dhar"
+title: Varun Dhar
 author: vdhar215
 email: vdhar215@gmail.com
 theme: jekyll-theme-cayman
 
-# social links
 github_username: doggo4242
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true
