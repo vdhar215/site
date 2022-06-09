@@ -2,7 +2,7 @@
 title: "Varun Dhar"
 ---
 
-# Social Media
+# Social Media Info
 
 Discord: @Icy_Flurry#9278
 
